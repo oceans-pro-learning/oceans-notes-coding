@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "11d903d016a7938b",
+        "id": "72487f99b9ef1b9b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "firebase/firebase.md",
+            "file": "每日笔记/2022.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 393
   },
   "right": {
     "id": "a7ae852300ed247d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "firebase/firebase.md",
+                "file": "每日笔记/2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -77,6 +77,27 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9db16bf5fc3aa53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e98381cb01cbf0a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "每日笔记/2022.md"
               }
             }
           }
@@ -87,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "033a2a14d0cf0aa2",
+  "active": "72487f99b9ef1b9b",
   "lastOpenFiles": [
-    "vscode/设置.md",
-    "firebase/firebase.md",
-    "办公技术/如何翻墙.md",
-    "README.md",
-    "vue/vue3/ref和reactive.md",
-    "vue/vue3/踩坑.md",
-    "vue/vue3/起步.md",
+    "附件/图片/123.png",
+    "装机/前端环境.md",
+    "附件/其他/123.png",
+    "react/react-router/概要.md",
+    "未命名.md",
+    "附件/charles.png",
+    "附件/图片/Pasted image 20220920234027.png",
+    "附件/图片/Pasted image 20220920234024.png",
     "测试技术/未命名.md",
-    "nodejs/内部模块.md",
-    "nodejs/安装.md"
+    "办公技术/如何翻墙.md"
   ]
 }
