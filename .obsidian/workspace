@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "72487f99b9ef1b9b",
+        "id": "200a9378980c6f4d",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "nodejs/内部模块.md",
+            "file": "浏览器/宏任务与微任务.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 358
   },
   "right": {
     "id": "a7ae852300ed247d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nodejs/内部模块.md",
+                "file": "浏览器/宏任务与微任务.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nodejs/内部模块.md"
+                "file": "浏览器/宏任务与微任务.md"
               }
             }
           }
@@ -108,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "72487f99b9ef1b9b",
+  "active": "200a9378980c6f4d",
   "lastOpenFiles": [
-    "nodejs/安装.md",
-    "vite/未命名.md",
-    "每日笔记/2022.md",
-    "附件/图片/123.png",
+    "linux/网络.md",
+    "装机/【安装部署】macos下虚拟机+centos7.md",
+    "附件/图片/Pasted image 20221009135949.png",
+    "附件/图片/Pasted image 20221009135858.png",
+    "附件/图片/Pasted image 20221009135736.png",
+    "附件/图片/Pasted image 20221009113446.png",
     "装机/前端环境.md",
-    "附件/其他/123.png",
-    "react/react-router/概要.md",
-    "未命名.md",
-    "附件/charles.png",
-    "附件/图片/Pasted image 20220920234027.png"
+    "vue/vue3/踩坑.md",
+    "nodejs/模块化原理.md",
+    "nodejs/内部模块.md"
   ]
 }
