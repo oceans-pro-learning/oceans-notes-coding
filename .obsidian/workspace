@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "038c3b7e7579f12e",
+        "id": "6410091ac1d8dd63",
         "type": "leaf",
-        "dimension": 79.46074544012689,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "react/react-base/pureComponent.md",
+            "file": "react/react-base/性能优化-防止重新渲染.md",
             "mode": "source",
             "source": false
           }
-        },
-        "group": "1b3e06fa3d1ebbed"
-      },
-      {
-        "id": "ee97b10cd2e742d9",
-        "type": "leaf",
-        "dimension": 20.539254559873115,
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "react/react-base/pureComponent.md"
-          }
-        },
-        "group": "1b3e06fa3d1ebbed"
+        }
       }
     ],
     "direction": "vertical"
@@ -67,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 599.5
+    "width": 426.5
   },
   "right": {
     "id": "a7ae852300ed247d",
@@ -83,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/react-base/pureComponent.md",
+                "file": "react/react-base/性能优化-防止重新渲染.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,28 +97,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/react-base/pureComponent.md"
+                "file": "react/react-base/性能优化-防止重新渲染.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "038c3b7e7579f12e",
+  "active": "6410091ac1d8dd63",
   "lastOpenFiles": [
-    "未命名.md",
-    "react/react-base/pureComponent.md",
+    "react/react-base/性能优化-keys.md",
+    "react/react-base/性能优化-防止重新渲染.md",
+    "README.md",
     "react/基础学习.md",
     "nodejs/模块化原理.md",
     "nodejs/内部模块.md",
     "nodejs/安装.md",
     "linux/网络.md",
     "装机/前端环境.md",
-    "装机/【安装部署】macos下虚拟机+centos7.md",
-    "浏览器/宏任务与微任务.md"
+    "装机/【安装部署】macos下虚拟机+centos7.md"
   ]
 }
