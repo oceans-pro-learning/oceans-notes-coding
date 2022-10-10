@@ -2,5 +2,6 @@
   "legacyEditor": false,
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "attachmentFolderPath": "附件/图片"
+  "attachmentFolderPath": "附件/图片",
+  "autoConvertHtml": false
 }
