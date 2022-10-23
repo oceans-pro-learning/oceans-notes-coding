@@ -51,7 +51,7 @@ console.dir(parsed, {
 ```
 
 
-```json
+```js
 {
   source: '\n' +
     '  <template lang="html">\n' +
