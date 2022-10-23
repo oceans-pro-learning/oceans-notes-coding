@@ -22,6 +22,8 @@ module.exports.wrap = function(file) {
 
 # fis.plugin
 
+这个方法只是处理配置罢了。
+
 ```js
 /**
  * 仅限于 fis-conf.js 中使用，用来包装 fis 插件配置。

@@ -1,3 +1,5 @@
+vue-template-compiler
+[[main]]
 
 # 更好的测试
 

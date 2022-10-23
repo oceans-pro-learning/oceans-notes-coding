@@ -73,7 +73,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "fis/fis源码分析.md",
+                "file": "fis/fis3-parser-vue-sfc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0fb4b7dbf7d1c86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/vue-template-compiler/main.md",
                 "mode": "source",
                 "source": false
               }
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fis/fis源码分析.md",
+                "file": "vue/vue-template-compiler/main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "fis/fis源码分析.md"
+                "file": "vue/vue-template-compiler/main.md"
               }
             }
           }
@@ -192,17 +204,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "21cdf7cc5fd75407",
+  "active": "d0fb4b7dbf7d1c86",
   "lastOpenFiles": [
+    "fis/fis3-parser-vue-sfc.md",
+    "fis/fis源码分析.md",
+    "vue/vue-template-compiler/main.md",
     "fis/插件.md",
     "fis/fis3-parser-vue-component.md",
-    "fis/fis3-parser-vue-sfc.md",
     "未命名.md",
     "fis/fis-glob.md",
     "nodejs/glob/glob.md",
     "附件/图片/Pasted image 20221022005928.png",
-    "nodejs/module.md",
-    "react/react-css/样式.md",
-    "react/网络请求.md"
+    "nodejs/module.md"
   ]
 }
