@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "react/react-css/未命名.md",
+            "file": "nodejs/module.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": ".filler",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "react/react-css/未命名.md",
+                "file": "nodejs/module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +98,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "react/react-css/未命名.md"
+                "file": "nodejs/module.md"
               }
             }
           }
@@ -108,17 +109,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "033a2a14d0cf0aa2",
+  "active": "ca1305ac2f8d9131",
   "lastOpenFiles": [
+    "react/react-css/样式.md",
+    "react/网络请求.md",
+    "react/基础学习.md",
     "react/react-base/高阶组件-Portals.md",
     "react/react-base/性能优化-防止重新渲染.md",
     "react/react-base/性能优化-keys.md",
     "README.md",
-    "react/基础学习.md",
     "nodejs/模块化原理.md",
     "nodejs/内部模块.md",
-    "nodejs/安装.md",
-    "linux/网络.md",
-    "装机/前端环境.md"
+    "nodejs/安装.md"
   ]
 }

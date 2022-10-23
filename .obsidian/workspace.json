@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "1f99c6656a80eb22",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e7355383d29c47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a73a44ca3399fcb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fis/fis-glob.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f23259c538dc861d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fis/插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbcd67e4a72c8032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fis/fis3-parser-vue-component.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5110e88f6bdde021",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fis/插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6be62a256fd1d7ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fis/插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "21cdf7cc5fd75407",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "fis/fis源码分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1769c51fcd91716b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodejs/glob/glob.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d31f364b650997e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2b23d2889ae5b1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "033a2a14d0cf0aa2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca1305ac2f8d9131",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ".filler",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5
+  },
+  "right": {
+    "id": "a7ae852300ed247d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a5b15b68d240360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "146a31d92456a426",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "fis/fis源码分析.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9db16bf5fc3aa53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e98381cb01cbf0a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "fis/fis源码分析.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "21cdf7cc5fd75407",
+  "lastOpenFiles": [
+    "fis/插件.md",
+    "fis/fis3-parser-vue-component.md",
+    "fis/fis3-parser-vue-sfc.md",
+    "未命名.md",
+    "fis/fis-glob.md",
+    "nodejs/glob/glob.md",
+    "附件/图片/Pasted image 20221022005928.png",
+    "nodejs/module.md",
+    "react/react-css/样式.md",
+    "react/网络请求.md"
+  ]
+}

@@ -3,5 +3,10 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "attachmentFolderPath": "附件/图片",
-  "autoConvertHtml": false
+  "autoConvertHtml": false,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "showLineNumber": false,
+  "rightToLeft": false
 }
